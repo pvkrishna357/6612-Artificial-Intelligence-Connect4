@@ -14,11 +14,11 @@ This project was built using Python and Pygame.
 
 2. Once the repository folder is on your machine, open it within the terminal. <u>For this demonstration, the folder has been placed on the **Desktop**</u>.
 
-![Terminal - Change Directory](./img/Console1.png)
+![Terminal - Change Directory](./img/Console2.png)
 
 3. Once within the repository folder, you may run the following command to begin the game: **python main.py**
 
-![Terminal - Start Game](./img/Console2.png)
+![Terminal - Start Game](./img/Console1.png)
 
 4. This will immediately open the game window in order for you to begin playing.
 
