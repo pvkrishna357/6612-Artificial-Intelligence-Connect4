@@ -1,8 +1,8 @@
-# Connect 4 - AI
+# AI CONNECT 4
 Developed by Venkata Krishna
 A virtual rendition of the classic "Connect 4" board game using reinforcement learning.
 
-This project was built using Python and Pygame.
+This project was built using Python,Pygame,Alpha-Beta and MIN-MAX Algorithms
 
 #
 ## Note: Python version 3.6 and above is **required**.
@@ -34,7 +34,7 @@ This project was built using Python and Pygame.
 
 ![Terminal - AI Score Output](./img/Scores.png)
 
-7. Once done,Finally a winner is announced!
+7. Finally a winner is announced!
 
 ![Game Window - Player 1 Wins](./img/Player_Win.png)
 ![Game Window - AI Wins](./img/AI_Win.png)
